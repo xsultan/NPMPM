@@ -25,3 +25,7 @@ Edit `getAllPackages.js` to your system configuration:
 `errorLimit` : The limit number of errors to terminate the app when it is reached.
 
 `parallelLimit` : Number of changes we will process at once.
+
+### Usage
+
+In a terminal, type `node getAllPackages.js` to start the NPM packages data retrieval process. 
